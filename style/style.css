@@ -685,7 +685,7 @@ button {
 /* PAYMENT */
 
 .payment {
-     background-image: url('/images/payment.jpg');
+     background-image: url('../images/payment.jpg');
      height: 700px;
      background-position: center;
      background-repeat: no-repeat;
