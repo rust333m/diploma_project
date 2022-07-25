@@ -9,6 +9,8 @@
 
 ----
 
-###  
 
+
+### link to the code - https://github.com/rust333m/diploma_project/tree/master
+### link to the site - https://rust333m.github.io/diploma_project/
 ### link to the project - https://github.com/SuleymanDemirelKazakhstan/diploma-project-eventum_one
